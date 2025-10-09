@@ -1,4 +1,4 @@
-# Security Research - Proof of Concepts
+# Proof of Concepts
 
 This repository contains Proof of Concept (POC) exploits for various CVE vulnerabilities for educational and security research purposes only.
 
